@@ -7,7 +7,7 @@
 
 ## 📌 Overview
 
-This repository contains the complete, production-ready personal portfolio website for **Akshay S A**. Crafted specifically for campus placements, internship applications, and technology company recruiters, the website highlights academic rigor, machine learning foundations, Python programming expertise, and practical software engineering capabilities.
+This repository contains a complete, production-ready personal portfolio website for **Akshay S A**. Crafted specifically for campus placements, internship applications, and technology company recruiters, the website highlights academic rigor, machine learning foundations, Python programming expertise, and practical software engineering capabilities.
 
 ### 🌟 Key Highlights
 - **Factual Accuracy**: 100% grounded in Akshay's verified resume without exaggerated titles or fabricated credentials.
@@ -137,7 +137,7 @@ If you want automated serverless inbox delivery without leaving the page:
 ## 🌐 Deployment Instructions
 
 ### Deploy to Vercel (Recommended)
-1. Push this project to your GitHub account:
+1. Push this project to your GitHub account::
    ```bash
    git init
    git add .
