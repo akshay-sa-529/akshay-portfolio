@@ -1,7 +1,7 @@
 # Akshay S A — Personal Portfolio Website
 > **AI & ML Engineering Student | Software Development**  
 > B.E. in Artificial Intelligence and Machine Learning · A J Institute of Engineering and Technology (AJIET), Mangaluru  
-> CGPA: **8.56 / 10** · Location: **Mangaluru, Karnataka, India**
+> CGPA: **8.57 / 10** · Location: **Mangaluru, Karnataka, India**
 
 ---
 
